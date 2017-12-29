@@ -1,7 +1,7 @@
 modelinter
 ==============================
 
-Study about model interconnectedness. This repository contains the code used to execute the calculations presented in the paper **"Why Model Interconnectedness Matters -  and a Technique to Approach it"**.
+Study about model interconnectedness. This repository contains the code used to execute the calculations presented in the paper **"Why Model Interconnectedness Matters -  and a Technique to Approach it"** *[(SSRN:3078021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078021 "Link to the paper")*.
 
 Notes on the code:
 
